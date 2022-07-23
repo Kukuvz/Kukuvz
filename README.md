@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Gaivoronskiy
 - 👀 I’m interested Frontend development
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning JavaScript & VueJs
 
 
 <!---
