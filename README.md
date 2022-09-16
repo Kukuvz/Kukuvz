@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Anton Gaivoronskiy
-- 👀 I’m interested Frontend development
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested DevOps
+
 
 
 <!---
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
